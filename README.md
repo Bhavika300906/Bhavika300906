@@ -2,8 +2,6 @@
 
 ### Full Stack Developer | Python • Django • React.js
 
-I'm a B.Sc. Information Technology student at **Dr. Babasaheb Ambedkar Open University (BAOU)** and a Full Stack Development trainee at **TOPS Technologies**.
-
 I enjoy building practical, responsive and user-focused web applications, with a focus on **Python, Django, React.js, REST APIs and databases**.
 
 - 🎓 B.Sc. Information Technology — BAOU, Ahmedabad
