@@ -1,11 +1,95 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Full-stack web applications using React.js, Django REST Framework, Python, MySQL, and REST APIs.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, full-stack web applications, and beginner-friendly projects using React.js, Python, Django, and JavaScript.<br><br>🤝 I’m looking for help with<br>Improving my backend architecture, Django REST API development, database design, and writing scalable full-stack applications.<br><br>🌱 I’m currently learning<br>Advanced Django, Django REST Framework, React.js, REST API development, MySQL, and better full-stack application architecture.<br><br>💬 Ask me about<br>React.js, JavaScript, Python, Django, REST APIs, MySQL, Firebase, HTML5, CSS3, Bootstrap, Tailwind CSS, Git, and GitHub.<br><br>⚡ Fun fact<br>I enjoy turning ideas into working web applications and learning by building real-world projects. 🚀
+# Hi, I'm Bhavika Sonule 👋
 
+### Full Stack Developer | Python • Django • React.js
+
+I'm a B.Sc. Information Technology student at **Dr. Babasaheb Ambedkar Open University (BAOU)** and a Full Stack Development trainee at **TOPS Technologies**.
+
+I enjoy building practical, responsive and user-focused web applications, with a focus on **Python, Django, React.js, REST APIs and databases**.
+
+- 🎓 B.Sc. Information Technology — BAOU, Ahmedabad
+- 💻 Full Stack Development — Python & Django
+- 🌱 Currently strengthening my Full Stack Development skills
+- 🔍 Interested in Full Stack, Python/Django and React development
+- 📍 Ahmedabad, Gujarat, India
+- 🚀 Open to internships, junior developer opportunities and real-world projects
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhaviiibabe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavika-sonule3006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavika.sonule30@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+## 🛠️ Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Programming & Markup
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-1572B6?style=for-the-badge)
+
+### ⚙️ Backend & APIs
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-BA1212?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+
+### 🗄️ Databases & Backend Services
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔧 Tools & Development
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+---
+
+## 🎓 Education
+
+### Bachelor of Science in Information Technology
+**Dr. Babasaheb Ambedkar Open University (BAOU)**  
+Ahmedabad, Gujarat
+
+---
+## 📚 Core Knowledge
+
+- Data Structures
+- Database Management Systems
+- Software Engineering
+- Computer Fundamentals
+- Operating Systems
+- Computer Networks
+- Cybersecurity Fundamentals
+- Object-Oriented Programming
+- Responsive Web Design
+- REST API Development
+- CRUD Application Development
+- Authentication & Authorization
+- Git & GitHub
+
+---
+
+
+## 📈 Currently Learning
+
+```text
+Python & Django
+        ↓
+Django REST Framework
+        ↓
+React.js
+        ↓
+Full Stack Applications
+        ↓
+Real-World Projects
+
+
